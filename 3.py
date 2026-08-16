@@ -97,3 +97,4 @@ print(物件_index) '''
 
 df_單價分析表.to_excel("output_單價分析表.xlsx", index=True)
 '''df_單價分析表.columns = ["項 次", "項  目  及  說  明","單 位","數 量","單 價","複 價","編碼(備註)"]'''
+
